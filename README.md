@@ -1,2 +1,2 @@
 # Corner-Stitching
- Corner Stitching Data Strueture Implement
+ Corner Stitching Data Strueture Implementation
